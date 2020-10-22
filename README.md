@@ -1,0 +1,3 @@
+# amazon-clone-node-server
+This is a simple amazon clone node server for backend services like stripe payments, etc....
+This server is hosted on heroku on: https://hirwab-amazon-clone.herokuapp.com/
